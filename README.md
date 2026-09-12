@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# Roblox — Mod Menu
+ <span style="color:#1E90FF">Roblox — Mod Menu</span>
 
 **⟪Aimbot, ESP, Speed Hack, Fly, and Silent Aim — the essential toolkit for any Roblox experience.⟫**
 Free, open source, no installer. Opens with `Insert`.
