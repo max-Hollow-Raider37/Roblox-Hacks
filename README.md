@@ -3,8 +3,8 @@
 <div align="center">
 
  <span style="color:#1E90FF">Roblox — Mod Menu</span>
-![Static Badge](https://img.shields.io/badge/текст-голубой-blue)
-![Static Badge](https://img.shields.io/badge/текст-голубой-58a6ff)
+<span style="color: #58a6ff">ваш текст</span>
+
 **⟪Aimbot, ESP, Speed Hack, Fly, and Silent Aim — the essential toolkit for any Roblox experience.⟫**
 Free, open source, no installer. Opens with `Insert`.
 <h2 style="color:#00BFFF">🚀 My Project</h2>
