@@ -7,7 +7,9 @@
 **⟪Aimbot, ESP, Speed Hack, Fly, and Silent Aim — the essential toolkit for any Roblox experience.⟫**
 Free, open source, no installer. Opens with `Insert`.
 <h2 style="color:#00BFFF">🚀 My Project</h2>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+World!;Welcome+to+my+GitHub!" />
+</p>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-c25a45?style=flat-square)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-1c1c1c?style=flat-square)
