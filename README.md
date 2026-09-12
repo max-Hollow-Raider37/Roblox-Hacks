@@ -1,16 +1,4 @@
-<!-- ══ REPLACE THESE SIX, THEN DELETE THIS BLOCK ═════════════════════
-     {{GAME}}    Roblox
-     {{DEV}}     Roblox Corporation
-     {{WORD}}    Mod Menu
-     {{COUNT}}   35
-     {{PUB}}     Roblox Corporation
-     {{ACCENT}}  c25a45
-     {{DATE}}    2026-09-09
 
-     Everything else is already written. Fill in the ⟪marked⟫ bits.
-     Word choice — Trainer: strategy, RPG, sims. Mod Menu: co-op and
-     anything with overlay culture. Cheats: cozy, casual, puzzle.
-══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
