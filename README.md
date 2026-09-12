@@ -1,8 +1,4 @@
 
-[![copy](https://cdn.jsdelivr.net/gh/lalit2005/copii@master/assets/copy-below-code.svg)](https://copii.vercel.app/?ct=dawdaadasdadsads&tm=wt&lg=)
-
-
-[![copy](https://cdn.jsdelivr.net/gh/lalit2005/copii@master/assets/copy.svg)](https://copii.vercel.app/?ct=dawdaadasdadsads&tm=wt&lg=)
 
 
 
@@ -10,8 +6,7 @@
 
 <div align="center">
 
- <span style="color:#1E90FF">Roblox — Mod Menu</span>
-<span style="color: #58a6ff">ваш текст</span>
+
 
 **⟪Aimbot, ESP, Speed Hack, Fly, and Silent Aim — the essential toolkit for any Roblox experience.⟫**
 Free, open source, no installer. Opens with `Insert`.
