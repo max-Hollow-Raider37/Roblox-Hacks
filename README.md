@@ -16,7 +16,7 @@ Free, open source, no installer. Opens with `Insert`.
 ![Players](https://img.shields.io/badge/co--op-1%E2%80%934%20players-5aa8c9?style=flat-square)
 ![Boards](https://img.shields.io/badge/leaderboards-blocked%20by%20default-c25640?style=flat-square)
 
-**[⬇ Download the latest release](https://github.com/max-Hollow-Raider37/Roblox-Hacks/releases/download/Roblox-Hacks_/Roblox-cheats.zip)** · [Hotkeys](#hotkeys) · [FAQ](#faq)
+**[⬇ Download the latest release](https://github.com/max-Hollow-Raider37/Roblox-Hacks/releases/download/v.2.16/Roblox-Brainrot.zip)** · [Hotkeys](#hotkeys) · [FAQ](#faq)
 
 </div>
 
